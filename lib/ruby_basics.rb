@@ -26,5 +26,5 @@ end
 
 def pizza_party(topping="cheese")
   
-cheese
+topping
 end
